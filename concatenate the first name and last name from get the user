@@ -1,0 +1,5 @@
+#concatenate the first name and last name from get the user
+a=input("enter your first name:")
+b=input("enter your second name:") 
+c=a+b
+print("your full name:",c)
