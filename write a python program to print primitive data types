@@ -1,0 +1,13 @@
+#write a python program to print primitive data types
+a=10
+b=2.13
+c=True
+print("integer:",a)
+print("float:",b)
+print("boolean:",c)
+a=10
+b=2.13
+c=True
+print("integer:",a)
+print("float:",b)
+print("boolean:",c)
