@@ -1,0 +1,4 @@
+#write a python program to find the square of the number
+a=int(input("enter the number:"))
+b=a**2
+print(b)
