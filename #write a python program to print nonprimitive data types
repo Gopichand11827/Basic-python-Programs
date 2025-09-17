@@ -1,0 +1,7 @@
+#write a python program to print nonprimitive data types
+l1=[1,2,3,4,5]
+dict_1={"one":1,"two":2}
+set1=(10,20,30)
+print(l1)
+print(dict_1)
+print(set1)
