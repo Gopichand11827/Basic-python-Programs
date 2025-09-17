@@ -1,0 +1,3 @@
+#get the input from user and printit
+name=input("enter your name:")
+print("your name:",name)
