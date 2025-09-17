@@ -1,0 +1,6 @@
+#write a python program to find the average of three numbers and we get the input from user
+x=int(input("enter the number:"))
+y=int(input("enter the number:"))
+z=int(input("enter the number:"))
+avg=x+y+z/3
+print("average of three numbers:",avg)
