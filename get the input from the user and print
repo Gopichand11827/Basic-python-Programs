@@ -1,0 +1,5 @@
+#get the input from the user and print
+num1=input("enter the number:")
+num2=input("enter the number:")
+print("first number:",num1)
+print("second number:",num2)           
