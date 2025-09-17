@@ -1,0 +1,5 @@
+#multiplication of two floating numbers
+x=float(input("enter the number:"))
+y=float(input("enter the number:"))
+multiply=x*y
+print("result:",multiply)
